@@ -1,9 +1,24 @@
 # Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de backend.
+## :memo: Contexto
+Este projeto foi feito enquanto estudava na @betrybe.
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+## :wrench: Técnologias usadas
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
+Back-end:
+> Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-019-stranger-things) em que os requisitos do projeto são destrinchados.
+# Orientações
+## :rocket:  Rodando o Projeto
+
+> Backend
+
+  > Rode os serviços `node` e `db` com o comando `docker-compose up -d`.
+  - Esse serviço irá inicializar um(os) container(s).
+  - A partir daqui você pode rodar o container via CLI ou abri-lo no VS Code.
+  > Use o comando `docker exec -it nome_do_container bash`.
+  - Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
+  > Instale as dependências com `npm install`
+
+## Creditos
+- Eu (@datavinny)
