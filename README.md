@@ -6,7 +6,7 @@ Este projeto foi feito enquanto estudava na @betrybe.
 ## :wrench: Técnologias usadas
 
 Back-end:
-> Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6
+> Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6 ,HEROKU
 
 # Orientações
 ## :rocket:  Rodando o Projeto
