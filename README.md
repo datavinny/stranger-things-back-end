@@ -22,3 +22,4 @@ Back-end:
 
 ## Creditos
 - Eu (@datavinny)
+- Trybe (@betrybe)
